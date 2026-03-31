@@ -226,6 +226,10 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
+## Payments and Tips
+
+WorkoutDiary offers optional in-app purchases and tips through RevenueCat and the Google Play Store. We do not collect, process, or store any financial information or credit card data. All transactions are handled securely by the Google Play Store in accordance with their respective privacy policies.
+
 ## Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
